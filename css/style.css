@@ -43,7 +43,7 @@ header nav {
   padding: 0px 30px;
 }
 header nav .logo {
-  width: 113px
+  width: 113px;
 }
 header nav a {
   font-size: var(--size-12) !important;
@@ -71,7 +71,7 @@ header .content p {
   font-size: 20px;
   line-height: 1.7;
   transform: translateY(130%);
-  animation: fadeOut 0.7s  0.8s forwards;
+  animation: fadeOut 0.7s 0.8s forwards;
 }
 header .content a {
   width: fit-content;
